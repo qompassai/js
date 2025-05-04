@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "$REPO_NAME"
+authors:
+  - family-names: "Porter"
+    given-names: "Matthew A."
+    orcid: "https://orcid.org/"
+    affiliation: ""
+version: ""
+date-released: ""
+url: "https://github.com/"
+repository-code: "https://github.com/"
+license: ""
+keywords:
+  - AI
+  - Quantum
+  - Post-Quantum Cryptography
+  - Education
+  - Healthcare
+abstract: ""
