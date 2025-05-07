@@ -1,20 +1,22 @@
 cff-version: 1.2.0
+title: "js"
 message: "If you use this software, please cite it as below."
-title: "$REPO_NAME"
 authors:
   - family-names: "Porter"
     given-names: "Matthew A."
-    orcid: "https://orcid.org/"
-    affiliation: ""
-version: ""
-date-released: ""
-url: "https://github.com/"
-repository-code: "https://github.com/"
-license: ""
+    orcid: "https://orcid.org/0000-0002-0302-4812"
+    affiliation: "Qompass AI"
+version: "v2025-05-06"
+date-released: "2025-05-06"
+repository-code: "https://github.com/qompassai/js"
+license: "Q-CDA-1.0"
 keywords:
   - AI
-  - Quantum
-  - Post-Quantum Cryptography
   - Education
   - Healthcare
+  - Post-Quantum Cryptography
+  - Quantum
+  - data science
+  - machine learning
+  - python
 abstract: ""
