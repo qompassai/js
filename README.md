@@ -1,6 +1,6 @@
-# {{REPO_NAME}}
+<h3> JavaScript </h3>
 
-## {{DESCRIPTION}}
+<h2> Qompass AI JavaScript <h3>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/agpl-3.0">
@@ -14,10 +14,6 @@
   {{REPO_VIEW_BADGE}}
 </p>
 </p>
-
-**Tags:** {{KEYWORDS_LIST}}
-
----
 
 <details id="Contact">
   <summary><strong>Contact Qompass AI</strong></summary>
@@ -45,10 +41,3 @@
     </p>
   </div>
 </details>
-
-<details id="Zenodo DOI">
-  <summary><strong>Digital Object Identifier (DOI)</strong></summary>
-
-```markdown
-{{DOI_MARKDOWN}}
-
