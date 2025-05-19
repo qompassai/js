@@ -1,8 +1,12 @@
 # ~/.GH/Qompass/JS/.gitignore
 # ---------------------------
 # Copyright (C) 2025 Qompass AI, All rights reserved
+/Astro/
 /Deno/
+/NuxtJS/
+/React/
 /Svelte/
 /ThreeJS/
+/TypeScript/
 /Vite/
 /Vue/
